@@ -1,7 +1,7 @@
 # binary_trees
-# 0x1D.C-Binary trees
+# 0x1D.C-Binary trees : project
 # Tasks
-### 0.New node
+### 0.New node 
  `Write a function that creste a binary tree node`
 	stock in *0-binary_tree_node.c*
 
@@ -122,11 +122,11 @@
     stock in *114-bst_remove.c*
 
 ### 29. Big O #BST
-    `What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
-     1. Inserting the value n
-     2. Removing the node with the value n
-     3. Searching for a node in a BST of size n`
-    stock in file *115-O*
+    `What are the average time complexities of those operations on a Binary Search Tree (one answer per line):`
+   1. Inserting the value n
+   2. Removing the node with the value n
+   3. Searching for a node in a BST of size n
+  stock in file *115-O*
 
 ### 30. Is AVL
 `Write a function that checks if a binary tree is a valid <a href="https://intranet.alxswe.com/rltoken/fMAZ9aBS-rDWgeIAvdTKWw">AVL Tree</a>`
@@ -149,10 +149,10 @@
     stock in *124-sorted_array_to_avl.c, 0-binary_tree_node.c*
 
 ### 35. Big O #AVL Tree
-`What are the average time complexities of those operations on an AVL Tree (one answer per line):
-	- Inserting the value n
-	- Removing the node with the value n
-	- Searching for a node in an AVL tree of size n`
+`What are the average time complexities of those operations on an AVL Tree (one answer per line):`
+- Inserting the value n
+- Removing the node with the value n
+- Searching for a node in an AVL tree of size n
     stock in *125-O*
 
 ### 36. Is Binary heap
@@ -176,11 +176,11 @@
     stock in *134-heap_to_sorted_array.c, 133-heap_extract.c*
 
 ### 41. Big O #Binary Heap
-`What are the average time complexities of those operations on a Binary Heap (one answer per line):
+`What are the average time complexities of those operations on a Binary Heap (one answer per line):`
 
-    - Inserting the value n
-	- Extracting the root node
-	- Searching for a node in a binary heap of size n`
-	stock in *135-0*
+- Inserting the value n
+- Extracting the root node
+- Searching for a node in a binary heap of size n	
+stock in *135-0*
 
 > Prototypes are in files*
