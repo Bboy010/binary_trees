@@ -102,7 +102,8 @@
     stock in *104-binary_tree_rotate_right.c*
 
 ### 24. Is BST
-`Write a function that checks if a binary tree is a valid <a href= "https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ>Binary"> Search Tree</a>`
+`Write a function that checks if a binary tree is a valid` 
+ - *<a href="https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ>Binary"> Search Tree</a>*
     stock in *110-binary_tree_is_bst.c*
 
 ### 25. BST - Insert
@@ -129,7 +130,8 @@
   stock in file *115-O*
 
 ### 30. Is AVL
-`Write a function that checks if a binary tree is a valid <a href="https://intranet.alxswe.com/rltoken/fMAZ9aBS-rDWgeIAvdTKWw">AVL Tree</a>`
+`Write a function that checks if a binary tree is a valid`
+- *<a href="https://intranet.alxswe.com/rltoken/fMAZ9aBS-rDWgeIAvdTKWw">AVL Tree</a>*
     stock in *120-binary_tree_is_avl.c*
 
 ### 31. AVL - Insert
@@ -156,7 +158,8 @@
     stock in *125-O*
 
 ### 36. Is Binary heap
-`Write a function that checks if a binary tree is a valid <a href="https://intranet.alxswe.com/rltoken/TU_7dyDvU6XqO_T0elQk4Q">Max Binary Heap</a>`
+`Write a function that checks if a binary tree is a valid `
+- *<a href="https://intranet.alxswe.com/rltoken/TU_7dyDvU6XqO_T0elQk4Q">Max Binary Heap</a>*
     stock in *130-binary_tree_is_heap.c*
 
 ### 37. Heap - Insert
@@ -183,4 +186,4 @@
 - Searching for a node in a binary heap of size n	
 stock in *135-0*
 
-> Prototypes are in files*
+> Prototypes are in files
